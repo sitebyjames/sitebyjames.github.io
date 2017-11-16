@@ -1,0 +1,28 @@
+
+body {
+    background: rgb(66, 102, 150);
+    margin-top: -21px;
+    margin-right:0px;
+    margin-bottom:20px;
+    margin-left:0px;
+}
+h2 {
+    font-family: 'Pacifico', cursive;
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+header {
+    text-align: center;
+    background: url('https://images.unsplash.com/photo-1493839960466-099d9cd1a3cc?auto=format&fit=crop&w=1189&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D');
+    background-size: cover;
+    color: black;
+}
+ul{
+padding:10px;
+}
+li{
+display: inline;
+padding: 0px 10px 0px 10px;
+}
+
